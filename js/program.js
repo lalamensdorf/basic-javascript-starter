@@ -6,9 +6,10 @@
 var message;
 
 /*
-  Here we can assign a value to our variable. Try changing the value on the
-  right side of the = and reloading the page in your browser.
-  For the following, change the value of message by editing
+  Now we can assign a value to our variable.  In the code below this comment, try
+  changing the value on the right side of the = and reloading the page in your browser.
+
+  For each of the following, change the value of message by editing
   the part after the = and before the ;. Make an edit and reload the browser to
   see the result.
   Change message to:
@@ -21,10 +22,11 @@ var message;
 
   Once you have the hang of editing the 'message' variable, try
   declaring a new variable, with a name you pick. Declare your new variable and
-  assign a value, your name, to it (don't forget quotation marks). Change 'message'
-  to store "Hello " plus the new variable. This should look like
+  assign a value, your name, to it (don't forget quotation marks).
+
+  Change 'message' to store "Hello " plus the new variable. This should look like
   arithmetic addition between a word in qutation marks and a variable. See if you can
-  get the browser to display a custom "Hello" message to you.
+  get the browser to display a custom "Hello" message to you with your name.
 */
 
 message = "Hello";
